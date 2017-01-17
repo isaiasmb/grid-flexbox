@@ -1,0 +1,61 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+/*col-2*/
+.flex-col-2 {
+    flex: 0 1 49.5%;
+    margin: 0.5%;
+}
+
+.flex-col-2:nth-child(2n) {
+    margin-right: 0;
+}
+
+.flex-col-2:nth-child(2n+1) {
+    margin-left: 0;
+}
+/*end col-2*/
+
+/*col-3*/
+.flex-col-3 {
+    flex: 0 1 32.5%;
+    margin: 0.62%;
+}
+
+.flex-col-3:nth-child(3n) {
+    margin-right: 0;
+}
+
+.flex-col-3:nth-child(3n+1) {
+    margin-left: 0;
+}
+/*end col-3*/
+
+/*col-4*/
+.flex-col-4 {
+    flex: 0 1 24%;
+    margin: 0.65%;
+}
+
+.flex-col-4:nth-child(4n) {
+    margin-right: 0;
+}
+
+.flex-col-4:nth-child(4n+1) {
+    margin-left: 0;
+}
+/*end col-4*/
+
+/*col-12*/
+.flex-col-12 {
+    width: 100%;
+}
+/*end col-12*/
