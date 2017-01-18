@@ -1,5 +1,5 @@
 body { margin: 0; padding: 0; }
-.flex-container div { height: 50px; width: 50px; }
+.flex-container div { height: 50px;}
 .flex-container div:nth-child(1) { background-color: #c15615;}
 .flex-container div:nth-child(2) { background-color: #dc0a0a; }
 .flex-container div:nth-child(3) { background-color: #397c2b; }
