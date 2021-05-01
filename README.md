@@ -1,4 +1,4 @@
 # grid-flexbox
-Um pequeno sistema de grids utilizando FlexBox.
+A small grid system using FlexBox.
 
 https://isaiasmb.github.io/grid-flexbox/
